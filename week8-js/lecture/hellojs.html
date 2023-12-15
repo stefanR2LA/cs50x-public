@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script>
+
+            function greet()
+            {
+                let name = documet.querySelector('#name').value
+                alert('hello, '+ name);
+            }
+
+        </script>
+        <title>
+            hello there
+        </title>
+    </head>
+    <body>
+        <form onsubmit="greet(); return false;">
+            <input autocomplete="off" autofocus id="name" placeholder="name" type="text">
+            <button type="submit">Greet</button>
+        </form>
+    </body>
+</html>
