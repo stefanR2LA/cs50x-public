@@ -1,5 +1,0 @@
-help on how to open html css and js files with cs50x
-
-so to open any file i need to go to a server, type http-server
-after that huge text comes out, at the bottom theres a link to my personal server
-that contains all of mine files.
