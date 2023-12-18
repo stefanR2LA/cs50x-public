@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            position: relative;
+        }
+
+        .container {
+            position: relative;
+            overflow: hidden; /* Clear the float */
+            height: 100vh; /* Set height to full viewport height */
+        }
+
+        .top-left {
+            position: absolute;
+            top: 0;
+            left: 0;
+            box-sizing: border-box;
+            padding: 20px;
+        }
+
+        .bottom-right {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            box-sizing: border-box;
+            padding: 20px;
+        }
+
+        img {
+            max-width: 20%;
+            height: auto;
+            display: block; /* Remove extra space below the image */
+        }
+    </style>
+    <title>Top Left and Bottom Right Images with Text</title>
+</head>
+<body>
+
+<div class="container">
+    <div class="top-left">
+        <img src="Gpiggies.jpg" alt="Top Left Image">
+        <p>This is the text for the top-left image.</p>
+    </div>
+    <div class="bottom-right">
+        <img src="Gpiggies.jpg" alt="Bottom Right Image">
+        <p>This is the text for the bottom-right image.</p>
+    </div>
+</div>
+
+</body>
+</html>
