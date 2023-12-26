@@ -1,0 +1,94 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-image: url('icons/bgimg5.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    background-color: #e5e6cf;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5em;
+    text-align: center;
+}
+
+h1{
+    display: inline-block !important;
+    background-color: #e5e6cf;
+    padding: 1em;
+    text-align: center;
+    margin-top: 70px;
+}
+h2 {
+    display: inline-block;
+    background-color: #e5e6cf;
+}
+/*padding for sections */
+.pad {
+    padding-left: 2em;
+    padding-bottom: 1em;
+    padding-right: 2em;
+}
+/*Adjusting the size of links for  ScrollSpy*/
+.list-group-item {
+    width: 200px; /* Adjust the width as needed */
+    text-align: center;
+    margin-left: 5%;
+    display: block;
+  }
+/*Adjusting size of the cards */
+.card-group {
+    max-width: 60%;
+    max-height: 15%;
+}
+/*Background color of cards backgrounds */
+.custom-card-bg {
+    background-color: #e5e6cf;
+}
+/*Adding height to h2 so when we click the links the nav-bar doesn't go over the title */
+.section-content {
+    padding-top: 70px;
+}
+/*custom img size so all imgs are the same size*/
+.custom-card-img {
+    height: 320px;
+}
+
+/*adding opacity to the background iimage*/
+.overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.5); /* Adjust the last value (alpha) for the desired level of opacity */
+}
+/*hoover*/
+.hover-effect {
+    transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.text-hover:hover {
+    background-color: #e5e6cf; /* Change to your desired background color */
+    border: 3px solid #6c757d; /* Change to your desired border color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a subtle box shadow on hover */
+    transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
