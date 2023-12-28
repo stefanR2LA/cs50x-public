@@ -14,9 +14,12 @@ My labs and psets done by now in each week:
 | Week3 |  |      | Runoff | Yes    |
 | Week4 | Smiley | Yes    | Filter-less | Yes    |
 | Week4 |  |     | Recover | Yes     |
-| Week2 | Lab2 | No     | Pset2 | Yes    |
-| Week3 | Lab3 | Yes    | Pset3 | Yes    |
-| Week1 | Lab1 | Yes    | Pset1 | No     |
+| Week5 | Inheritance | Yes     | Speller | Yes    |
+| Week6 | World Cup |  yes   | Hello | Yes    |
+| Week6 |  |    | Mario-more | Yes     |
+| Week6 |  |    | Cash | Yes     |
+| Week6 |  |    | DNA | Yes     |
+| Week6 |  |    | Readability | Yes     |
 | Week2 | Lab2 | No     | Pset2 | Yes    |
 | Week3 | Lab3 | Yes    | Pset3 | Yes    |
 | Week1 | Lab1 | Yes    | Pset1 | No     |
