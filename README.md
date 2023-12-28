@@ -20,8 +20,8 @@ My labs and psets done by now in each week:
 | Week6 |  |    | Cash | Yes     |
 | Week6 |  |    | DNA | Yes     |
 | Week6 |  |    | Readability | Yes     |
-| Week2 | Lab2 | No     | Pset2 | Yes    |
-| Week3 | Lab3 | Yes    | Pset3 | Yes    |
-| Week1 | Lab1 | Yes    | Pset1 | No     |
-| Week2 | Lab2 | No     | Pset2 | Yes    |
-| Week3 | Lab3 | Yes    | Pset3 | Yes    |
+| Week7 | Lab2 | No     | Pset2 | Yes    |
+| Week7 | Lab3 | Yes    | Pset3 | Yes    |
+| Week8 | Trivia | Yes    | Homepage | Yes   |
+| Week9 | ??? | No     | ??? | No    |
+| Week10 | ??? | No    | ??? | No  |
