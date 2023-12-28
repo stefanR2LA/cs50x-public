@@ -20,8 +20,8 @@ My labs and psets done by now in each week:
 | Week6 |  |    | Cash | Yes     |
 | Week6 |  |    | DNA | Yes     |
 | Week6 |  |    | Readability | Yes     |
-| Week7 | Songs | Yes     | Pset2 | Yes    |
-| Week7 |  |     | Pset3 | Yes    |
+| Week7 | Songs | Yes     | Movies | `No`    |
+| Week7 |  |     | Fiftyville | `No`    |
 | Week8 | Trivia | Yes    | Homepage | Yes   |
 | Week9 | ??? | No     | ??? | No    |
 | Week10 | ??? | No    | ??? | No  |
