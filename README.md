@@ -4,7 +4,7 @@ My labs and psets done by now in each week:
 
 | Weeks | Labs | Status | Psets | Status |
 |-------|------|--------|-------|--------|
-| Week0 | `Lab1` |     | Pset1 | `No`     |
+| Week0 | Lab1 |     | Pset1 | **No**     |
 | Week1 | Population Growth | Yes     | Hello | Yes    |
 | Week1 |  |    | Mario-more | Yes    |
 | Week1 |  |     | Credit | Yes     |
