@@ -4,10 +4,10 @@ My labs and psets done by now in each week:
 
 | Weeks | Labs | Status | Psets | Status |
 |-------|------|--------|-------|--------|
-| Week0 | Lab1 |     | Pset1 | **No**     |
-| Week1 | Population Growth | Yes     | Hello | Yes    |
-| Week1 |  |    | Mario-more | Yes    |
-| Week1 |  |     | Credit | Yes     |
+| Week0 | Lab1              |     | Pset1 | **No**     |
+| Week1 | Population Growth | `Yes`     | Hello | `Yes`    |
+| Week1 |                   |    | Mario-more | `Yes`    |
+| Week1 |  |     | Credit | `Yes`     |
 | Week2 | Scrabble | Yes     | Readability | Yes    |
 | Week2 |  |     | Substitution | Yes    |
 | Week3 | Sort | Yes    | Plurality | Yes     |
