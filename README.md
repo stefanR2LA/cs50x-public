@@ -22,6 +22,6 @@ My labs and psets done by now in each week:
 | Week6 |                    |        | Readability  | `Yes`  |
 | Week7 | Songs              | `Yes`  | Movies       | `Yes`  |
 | Week7 |                    |        | Fiftyville   | `Yes`  |
-| Week8 | Trivia             |  Yes   | Homepage     |  Yes   |
-| Week9 | ???                |  No    | ???          |  No    |
-| Week10| ???                |  No    | ???          |  No    |
+| Week8 | Trivia             |  `Yes` | Homepage     |  `Yes` |
+| Week9 | Birthdays          |  `Yes` | Finance      |  `Yes` |
+| Week10|                    |        | Final Project|  No    |
